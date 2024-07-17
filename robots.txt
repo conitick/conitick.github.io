@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://conitick.github.io/sitemap
+Sitemap: https://conitick.github.io/app/sitemap
+Sitemap: https://conitick.github.io/assets/sitemap
+Sitemap: https://conitick.github.io/css/sitemap
+Sitemap: https://conitick.github.io/includes/sitemap
+Sitemap: https://conitick.github.io/item/sitemap
+Sitemap: https://conitick.github.io/src/sitemap
